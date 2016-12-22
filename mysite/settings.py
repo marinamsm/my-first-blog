@@ -26,7 +26,7 @@ SECRET_KEY = '5l7_85n%+pfibq&fqsfeimm8#f=rus1su4hwwkbsvr&f1@3y#b'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'marinamsm.pythonanywhere.com']
-
+LOGIN_REDIRECT_URL = '/'
 
 # Application definition
 
